@@ -1,0 +1,7 @@
+discord.py
+openai
+atproto
+requests
+python-dotenv
+Pillow
+moviepy

@@ -1,0 +1,12 @@
+12	OPEN	Invite community feedback and testing		2025-05-09T03:41:36Z
+11	OPEN	Create GitHub Issues for MVP tasks		2025-05-09T03:41:35Z
+10	OPEN	Write detailed README.md and publish study guide		2025-05-09T04:22:54Z
+9	OPEN	Gate advanced OSINT output behind confirmed payment		2025-05-09T04:22:53Z
+8	OPEN	Add wallet connect (e.g. wagmi or web3modal)		2025-05-09T03:41:32Z
+7	OPEN	Set up API endpoint to receive form submissions		2025-05-09T03:41:31Z
+6	OPEN	Integrate self-hosted AI model for wallet risk summary	community	2025-05-09T04:22:52Z
+5	OPEN	Implement crypto payment UX (USDC/ETH)	docs	2025-05-09T03:40:15Z
+4	OPEN	Deploy front-end to a privacy-first host (e.g. CanHost or Futo)	deployment	2025-05-09T04:22:51Z
+3	OPEN	Display privacy disclaimer and obtain user consent	community	2025-05-09T03:40:13Z
+2	OPEN	Add input validation (required fields, wallet format check)	docs	2025-05-09T03:40:12Z
+1	OPEN	Build front-end form to collect wallet compromise symptoms	deployment	2025-05-09T03:40:11Z
